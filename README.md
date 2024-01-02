@@ -22,7 +22,7 @@ I'm open to collaborating on projects related to web development, software engin
 
 Feel free to connect with me! You can reach me through:
 
-- [LinkedIn]([https://www.linkedin.com/in/npriyanshu/](https://www.linkedin.com/in/priyanshu-negi-5b146a2a7/))
+- [LinkedIn]([https://www.linkedin.com/in/priyanshu-negi-5b146a2a7/])
 - [Twitter](https://twitter.com/your_twitter_handle)
 - [Email](mailto:ps2332471@gmail.com)
 
