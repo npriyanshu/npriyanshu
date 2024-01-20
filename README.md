@@ -20,7 +20,7 @@ I'm a passionate software engineering student currently pursuing my B.Tech in Co
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="path-to-python-icon" alt="python" width="40" height="40"/>
+    <img src="https://www.python.org/static/img/python-logo.png" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
