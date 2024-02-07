@@ -85,6 +85,9 @@ I'm a passionate software engineering student currently pursuing my B.Tech in Co
 - Deepening my understanding of computer networks and cybersecurity.
 - Experimenting with machine learning and artificial intelligence.
 
+  
+
+
 ## 👯 I'm Looking to Collaborate On
 
 I'm open to collaborating on projects related to web development, software engineering, and anything that involves creative problem-solving.
@@ -99,6 +102,11 @@ Feel free to connect with me! You can reach me through:
 
 Let's build something awesome together! 🚀
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=npriyanshu&show_icons=true&locale=en&layout=compact" alt="Priyanshu-Negi" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=npriyanshu&show_icons=true&locale=en" alt="mdmohsinhaider" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=npriyanshu&" alt="Priyanshu-Negi" /></p>
 
 <!---
 npriyanshu/npriyanshu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
